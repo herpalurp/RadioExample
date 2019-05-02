@@ -23,4 +23,8 @@ public class RadioExample {
         System.out.print("Hello Keith!");// TODO code application logic here
         Radio boombox = new Radio("one",2,3,4,true);
     }
+    
+    public static void Rumpf()  {
+        System.out.println("Steven");
+    }
 }
